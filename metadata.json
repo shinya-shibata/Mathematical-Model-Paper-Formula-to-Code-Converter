@@ -1,0 +1,8 @@
+{
+  "name": "数理モデル・論文数式コード変換器",
+  "description": "論文のLaTeX数式から構造化辞書・数値安定性リフレクション・堅牢なPython実装・pytest/可視化検証コードを段階的に生成するエキスパートシステム",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
